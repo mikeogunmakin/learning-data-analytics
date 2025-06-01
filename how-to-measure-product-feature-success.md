@@ -49,3 +49,4 @@
 
 - https://medium.com/@paul.levchuk/how-do-you-measure-the-success-of-a-product-feature-28240cf20aa3
 - https://amplitude.com/blog/steps-measuring-feature
+- https://medium.com/@paul.levchuk/how-popular-is-this-feature-among-weekly-daily-active-users-283a43d4cc3a
